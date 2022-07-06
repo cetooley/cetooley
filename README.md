@@ -1,6 +1,6 @@
 ## Who am I?
 
-I am a software developer.
+I am a full stack software developer. I write mostly vue.js but I also know how to manage servers.
 
 ## What am I?
 
@@ -8,15 +8,17 @@ I am a meat popsicle.
 
 ## Where am I?
 
-That's personal! I live in Canada, that's all you'll get from me!
+I live in virtual and real liminal spaces
 
 ## How am I?
 
-Pretty good! Thanks for asking!
+Pretty good! Thanks for asking! I could probably do with more sleep!
 
 ## Why am I?
 
-Nothing goes over my head. I am too quick. I would catch it.
+> Yet all the suns that light the corridors of the universe shine dim before the blazing of a single thought,
+> proclaiming an incandescent glory: the myriad mind of Man...
+
 
 <!---
 cetooley/cetooley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
