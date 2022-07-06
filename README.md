@@ -19,6 +19,7 @@ Pretty good! Thanks for asking! I could probably do with more sleep!
 > Yet all the suns that light the corridors of the universe shine dim before the blazing of a single thought,
 > proclaiming an incandescent glory: the myriad mind of Man...
 
+If just one of you who reads this knows how awesome you are, then I will be happy. Humanity shines the light of discovery on the dim abyss of unintelligent reality. Hopefully someday I might get to add my light to the glimmering fabric of human achievement.
 
 <!---
 cetooley/cetooley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
