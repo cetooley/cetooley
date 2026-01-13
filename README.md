@@ -1,6 +1,6 @@
 ## Who am I?
 
-I am a full stack software developer. I write mostly vue.js but I also know how to manage servers.
+I am a full stack software developer with 20 years of experience, practically a fossil. Nowadays I write mostly vue.js/python but I also manage servers and build neat hardware. Lately I've been doing iOS development.
 
 ## What am I?
 
@@ -12,7 +12,7 @@ I live in virtual and real liminal spaces
 
 ## How am I?
 
-Pretty good! Thanks for asking! I could probably do with more sleep!
+Pretty good! Thanks for asking! I could probably do with more sleep, preferably in a nice warm room with some lazy sun shining on me!
 
 ## Why am I?
 
